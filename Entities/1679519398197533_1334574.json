@@ -15,7 +15,7 @@
             "fileId": "1679519398194795:1334573",
             "originalId": "1679519398253719:1334589",
             "publicId": "1679594581492591:228263",
-            "expected_hash": "e7fdba0d84279aced9afc1e797d5b22b"
+            "expected_hash": "5de5112f26cb1b772dc9c6087142d495"
         },
         "IResourceManager": {
             "uid": "1679519398197541:1334575",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Materials/Pingo.lsmat",
-                "hash": "54a21d8708cdc80ea3cf37e59feb2e30"
+                "hash": "385439aebb1bae9564ce69f01f18a1c2"
             }
         }
     }

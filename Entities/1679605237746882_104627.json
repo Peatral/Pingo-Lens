@@ -7,9 +7,9 @@
             "Component.ScreenTransform": {
                 "basicModeSetup": {
                     "attachBottom": "false",
-                    "attachLeft": "false",
+                    "attachLeft": "true",
                     "attachRight": "false",
-                    "attachTop": "false",
+                    "attachTop": "true",
                     "fixHeight": "false",
                     "fixWidth": "false"
                 },

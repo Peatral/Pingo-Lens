@@ -1,0 +1,33 @@
+{
+    "1679940760216414:9981": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/CloudStore.js",
+                "hash": "bbe36d53a6f91de70ba41883bbbca86d"
+            }
+        }
+    },
+    "1679940760217237:9982": {
+        "IFileManager": {
+            "path": "Files/File_1679940760217237_9982.js"
+        }
+    },
+    "1679940760220048:9983": {
+        "IResourceController": {
+            "name": "CloudStore",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679940760220086:9984",
+            "fileId": "1679940760217237:9982",
+            "publicId": "1679940760216414:9981",
+            "expected_hash": "bbe36d53a6f91de70ba41883bbbca86d"
+        },
+        "IResourceManager": {
+            "uid": "1679940760220086:9984",
+            "name": "Files/File_1679940760217237_9982.js",
+            "flags": 1
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1679943084125285:9401": {
+        "IResourceController": {
+            "public": {
+                "path": "PingoOnHead.oprfb",
+                "hash": "108a73e59e3355bfd99abd8b1e38002c"
+            }
+        }
+    },
+    "1679943084126243:9406": {
+        "IResourceController": {
+            "name": "PingoOnHead",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679943084126174:9403",
+            "fileId": "1679943084179243:9410",
+            "originalId": "1679943084922069:11172",
+            "publicId": "1679943084125285:9401",
+            "expected_hash": "3735d7abeeba78433d4ec77b6a2567ff"
+        },
+        "IResourceManager": {
+            "uid": "1679943084126174:9403",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1679943084179243:9410": {
+        "IFileManager": {
+            "path": "Files/File_1679943084179243_9410.oprfb"
+        }
+    },
+    "1679943084922069:11172": {
+        "IFileManager": {
+            "path": "Files/File_1679943084922069_11172.oprfb"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1679594047961353:110091": {
+        "IResourceController": {
+            "name": "Materials0",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679594581503334:228266",
+            "resources": [
+                "1679594047964802:110098"
+            ]
+        }
+    },
+    "1679594581503334:228266": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/pingo/Materials0"
+            }
+        }
+    }
+}

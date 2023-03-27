@@ -1,0 +1,17 @@
+{
+    "1679594047959298:110045": {
+        "IResourceController": {
+            "name": "Leg_L_ 3",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1679594047959295:110044"
+        },
+        "IResourceManager": {
+            "uid": "1679594047959295:110044",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

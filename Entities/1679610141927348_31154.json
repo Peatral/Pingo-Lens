@@ -1,0 +1,79 @@
+{
+    "1679610141920062:31153": {
+        "IFileManager": {
+            "path": "Files/File_1679610141920062_31153.pvr"
+        }
+    },
+    "1679610141927348:31154": {
+        "IResourceController": {
+            "name": "pingo",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679610141928223:31155",
+            "fileId": "1679610141920062:31153",
+            "originalId": "1679610141928763:31160",
+            "publicId": "1679610141984041:31170",
+            "expected_hash": "39468ce9340a1cded4893e605352d96e",
+            "additional": {
+                "originHash": "ec09b8e63b56d6879603e0fa0940011e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1679610141928223:31155",
+            "name": "Files/File_1679610141920062_31153.png",
+            "flags": 1
+        }
+    },
+    "1679610141928223:31155": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ec09b8e63b56d6879603e0fa0940011e"
+                    },
+                    "v": "1679610142596999:32787"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "12057",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "24936",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679610141967461:31169"
+        }
+    },
+    "1679610141928763:31160": {
+        "IFileManager": {
+            "path": "Files/File_1679610141928763_31160.png"
+        }
+    },
+    "1679610141967461:31169": {
+        "IFileManager": {
+            "path": "Files/File_1679610141967461_31169.png"
+        }
+    },
+    "1679610141984041:31170": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/pingo.png",
+                "hash": "ec09b8e63b56d6879603e0fa0940011e"
+            }
+        }
+    },
+    "1679610142596999:32787": {
+        "IFileManager": {
+            "path": "Files/File_1679610142596999_32787.pvr"
+        }
+    }
+}

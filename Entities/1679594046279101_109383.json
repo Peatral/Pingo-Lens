@@ -1,0 +1,49 @@
+{
+    "1679594046279101:109383": {
+        "IResourceController": {
+            "name": "pingo",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1679594048753646:111149",
+            "publicId": "1679594581501567:228265",
+            "expected_hash": "cd0e8ec02e51124b10fccce7ea162d6b",
+            "resources": [
+                "1679594047642685:109699",
+                "1679594047949888:109818",
+                "1679594047961353:110091",
+                "1679594048666248:110715"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Uber",
+                        "v": "1679594047964807:110099"
+                    }
+                ]
+            }
+        }
+    },
+    "1679594048753646:111149": {
+        "IFileManager": {
+            "path": "Files/File_1679594048753646_111149.glb"
+        }
+    },
+    "1679594581501567:228265": {
+        "IResourceController": {
+            "public": {
+                "path": "pingo.glb",
+                "hash": "cd0e8ec02e51124b10fccce7ea162d6b"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1679594048666248:110715": {
+        "IResourceController": {
+            "name": "pingo",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1679594048665608:110352",
+            "fileId": "1679594048724639:111148",
+            "originalId": "1679594447898118:192361",
+            "expected_hash": "8c25db21d1c106ab18c9d9e4c59541c8"
+        },
+        "IResourceManager": {
+            "uid": "1679594048665608:110352",
+            "name": "GltfImport_2",
+            "flags": 0
+        }
+    },
+    "1679594048724639:111148": {
+        "IFileManager": {
+            "path": "Files/File_1679594048724639_111148.oprfb"
+        }
+    },
+    "1679594447898118:192361": {
+        "IFileManager": {
+            "path": "Files/File_1679594447898118_192361.oprfb"
+        }
+    }
+}

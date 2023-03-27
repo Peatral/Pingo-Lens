@@ -1,0 +1,39 @@
+{
+    "1679519398194795:1334573": {
+        "IFileManager": {
+            "path": "Files/File_1679519398194795_1334573"
+        }
+    },
+    "1679519398197533:1334574": {
+        "IResourceController": {
+            "name": "Pingo",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679519398197541:1334575",
+            "fileId": "1679519398194795:1334573",
+            "originalId": "1679519398253719:1334589",
+            "publicId": "1679594581492591:228263",
+            "expected_hash": "c4a0f98c0f897aeabe31d6831e0dea39"
+        },
+        "IResourceManager": {
+            "uid": "1679519398197541:1334575",
+            "name": "Files/File_1679519398194795_1334573",
+            "flags": 1
+        }
+    },
+    "1679519398253719:1334589": {
+        "IFileManager": {
+            "path": "Files/File_1679519398253719_1334589.lsmat"
+        }
+    },
+    "1679594581492591:228263": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Pingo.lsmat",
+                "hash": "54a21d8708cdc80ea3cf37e59feb2e30"
+            }
+        }
+    }
+}

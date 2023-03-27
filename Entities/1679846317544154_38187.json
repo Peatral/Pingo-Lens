@@ -1,0 +1,33 @@
+{
+    "1679846317537721:38185": {
+        "IResourceController": {
+            "public": {
+                "path": "StorageHandler.js",
+                "hash": "c3c3bd5dc14d68ecf9cac6bf2787c7f1"
+            }
+        }
+    },
+    "1679846317539127:38186": {
+        "IFileManager": {
+            "path": "Files/File_1679846317539127_38186.js"
+        }
+    },
+    "1679846317544154:38187": {
+        "IResourceController": {
+            "name": "StorageHandler",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679846317544239:38188",
+            "fileId": "1679846317539127:38186",
+            "publicId": "1679846317537721:38185",
+            "expected_hash": "c3c3bd5dc14d68ecf9cac6bf2787c7f1"
+        },
+        "IResourceManager": {
+            "uid": "1679846317544239:38188",
+            "name": "Files/File_1679846317539127_38186.js",
+            "flags": 1
+        }
+    }
+}

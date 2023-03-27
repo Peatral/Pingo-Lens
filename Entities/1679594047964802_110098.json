@@ -1,0 +1,39 @@
+{
+    "1679594047962356:110094": {
+        "IFileManager": {
+            "path": "Files/File_1679594047962356_110094"
+        }
+    },
+    "1679594047964802:110098": {
+        "IResourceController": {
+            "name": "Uber",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679594047964807:110099",
+            "fileId": "1679594047962356:110094",
+            "originalId": "1679594048014390:110108",
+            "publicId": "1679594581504687:228267",
+            "expected_hash": "7043b8f1005769e76653c2cd1c0a5557"
+        },
+        "IResourceManager": {
+            "uid": "1679594047964807:110099",
+            "name": "Files/File_1679594047962356_110094",
+            "flags": 1
+        }
+    },
+    "1679594048014390:110108": {
+        "IFileManager": {
+            "path": "Files/File_1679594048014390_110108.lsmat"
+        }
+    },
+    "1679594581504687:228267": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/pingo/Materials0/Uber.lsmat",
+                "hash": "e6c0795ebe9681a58da41b08ed517529"
+            }
+        }
+    }
+}

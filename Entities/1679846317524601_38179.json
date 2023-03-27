@@ -1,0 +1,33 @@
+{
+    "1679846317502737:38177": {
+        "IResourceController": {
+            "public": {
+                "path": "pingo 2.blend",
+                "hash": "665caf05c5f5e533acec1f54997d7898"
+            }
+        }
+    },
+    "1679846317509635:38178": {
+        "IFileManager": {
+            "path": "Files/File_1679846317509635_38178.blend"
+        }
+    },
+    "1679846317524601:38179": {
+        "IResourceController": {
+            "name": "pingo 2",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679846317524650:38180",
+            "fileId": "1679846317509635:38178",
+            "publicId": "1679846317502737:38177",
+            "expected_hash": "665caf05c5f5e533acec1f54997d7898"
+        },
+        "IResourceManager": {
+            "uid": "1679846317524650:38180",
+            "name": "Files/File_1679846317509635_38178.blend",
+            "flags": 1
+        }
+    }
+}

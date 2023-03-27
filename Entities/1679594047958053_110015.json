@@ -1,0 +1,17 @@
+{
+    "1679594047958053:110015": {
+        "IResourceController": {
+            "name": "Head_ 3",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1679594047958051:110014"
+        },
+        "IResourceManager": {
+            "uid": "1679594047958051:110014",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

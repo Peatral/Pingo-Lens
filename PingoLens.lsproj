@@ -239,9 +239,9 @@
             "icon_hash": "dcae2bc22b4e7ea7de768e4eb1073acf",
             "icon_path": "icon.png",
             "hints": [
-                ""
+                "lens_hint_tap"
             ],
-            "lens": "Flipping Pingo",
+            "lens": "Flipping Pingo B",
             "applicability": "3",
             "lens_descriptors": "",
             "sg": "true",
